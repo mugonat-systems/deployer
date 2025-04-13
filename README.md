@@ -4,6 +4,7 @@ First install deployer using
 ```bash
 composer require deployer/deployer --dev
 ```
+Then copy `deploy` folder and `deploy.php` into the root of your project
 
 ## Configuration
 
